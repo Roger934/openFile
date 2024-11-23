@@ -1,0 +1,16 @@
+C:\Users\roger\OneDrive\Escritorio\AplicacionesConsola\openFile\bin\Debug\net6.0-windows\openFile.exe
+C:\Users\roger\OneDrive\Escritorio\AplicacionesConsola\openFile\bin\Debug\net6.0-windows\openFile.deps.json
+C:\Users\roger\OneDrive\Escritorio\AplicacionesConsola\openFile\bin\Debug\net6.0-windows\openFile.runtimeconfig.json
+C:\Users\roger\OneDrive\Escritorio\AplicacionesConsola\openFile\bin\Debug\net6.0-windows\openFile.dll
+C:\Users\roger\OneDrive\Escritorio\AplicacionesConsola\openFile\bin\Debug\net6.0-windows\openFile.pdb
+C:\Users\roger\OneDrive\Escritorio\AplicacionesConsola\openFile\obj\Debug\net6.0-windows\openFile.Form1.resources
+C:\Users\roger\OneDrive\Escritorio\AplicacionesConsola\openFile\obj\Debug\net6.0-windows\openFile.csproj.GenerateResource.cache
+C:\Users\roger\OneDrive\Escritorio\AplicacionesConsola\openFile\obj\Debug\net6.0-windows\openFile.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\roger\OneDrive\Escritorio\AplicacionesConsola\openFile\obj\Debug\net6.0-windows\openFile.AssemblyInfoInputs.cache
+C:\Users\roger\OneDrive\Escritorio\AplicacionesConsola\openFile\obj\Debug\net6.0-windows\openFile.AssemblyInfo.cs
+C:\Users\roger\OneDrive\Escritorio\AplicacionesConsola\openFile\obj\Debug\net6.0-windows\openFile.csproj.CoreCompileInputs.cache
+C:\Users\roger\OneDrive\Escritorio\AplicacionesConsola\openFile\obj\Debug\net6.0-windows\openFile.dll
+C:\Users\roger\OneDrive\Escritorio\AplicacionesConsola\openFile\obj\Debug\net6.0-windows\refint\openFile.dll
+C:\Users\roger\OneDrive\Escritorio\AplicacionesConsola\openFile\obj\Debug\net6.0-windows\openFile.pdb
+C:\Users\roger\OneDrive\Escritorio\AplicacionesConsola\openFile\obj\Debug\net6.0-windows\openFile.genruntimeconfig.cache
+C:\Users\roger\OneDrive\Escritorio\AplicacionesConsola\openFile\obj\Debug\net6.0-windows\ref\openFile.dll
